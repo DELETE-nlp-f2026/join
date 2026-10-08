@@ -3,7 +3,7 @@
 # Welcome to the course
 
 **Start here.** To join, open a
-**[Join course](https://github.com/DELETE-nlp-f2026/welcome/issues/new/choose)** issue in this repo
+**[Join course](https://github.com/DELETE-nlp-f2026/join/issues/new/choose)** issue in this repo
 (the *New issue* button) and paste the enrolment code emailed to your Hertie address.
 
 Your course materials and your own assignment repositories then become accessible to you
